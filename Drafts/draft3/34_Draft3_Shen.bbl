@@ -1,0 +1,36 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Kugelmass(2016)]{Kugelmass2016}
+Heather Kugelmass.
+\newblock “sorry, i’m not accepting new patients”: An audit study of
+  access to mental health care.
+\newblock \emph{Journal of Health and Social Behavior}, 57\penalty0
+  (2):\penalty0 168--183, 2016.
+\newblock \doi{10.1177/0022146516647098}.
+\newblock URL \url{https://doi.org/10.1177/0022146516647098}.
+\newblock PMID: 27251890.
+
+\bibitem[Shin et~al.(2016)Shin, Smith, Welch, and Ezeofor]{Shin2016}
+Richard~Q. Shin, Lance~C. Smith, Jamie~C. Welch, and Ijeoma Ezeofor.
+\newblock Is allison more likely than lakisha to receive a callback from
+  counseling professionals? a racism audit study.
+\newblock \emph{The Counseling Psychologist}, 44\penalty0 (8):\penalty0
+  1187--1211, 2016.
+\newblock \doi{10.1177/0011000016668814}.
+\newblock URL \url{https://doi.org/10.1177/0011000016668814}.
+
+\bibitem[Wang and Chow(2007)]{wang2007}
+Hansheng Wang and Shein-Chung Chow.
+\newblock \emph{Sample Size Calculation for Comparing Proportions}.
+\newblock American Cancer Society, 2007.
+\newblock ISBN 9780471462422.
+\newblock \doi{https://doi.org/10.1002/9780471462422.eoct005}.
+\newblock URL
+  \url{https://onlinelibrary.wiley.com/doi/abs/10.1002/9780471462422.eoct005}.
+
+\end{thebibliography}
